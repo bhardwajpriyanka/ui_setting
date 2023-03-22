@@ -19,4 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 " width=22% height=35%>
   <img src = "https://user-images.githubusercontent.com/121473709/226887816-dba89bf1-060a-467b-9712-753f64c294f7.png" width=22% height=35%>
 </p>
-![settingandro](
+
